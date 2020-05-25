@@ -1,0 +1,5 @@
+$ git add FILE_NAME
+
+$ git commit -m "WORK DONE MESSAGE"
+
+$ git push -u origin master
